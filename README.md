@@ -1,4 +1,4 @@
-# PFOS-PPFOA-Exposure-Analysis
+# PFOS-PFOA-Exposure-Analysis
 
 All the R codes used in the Uncovering the Tumorigenic Blueprint of PFOS and PFOA Through Multi-Organ Transcriptomic Analysis of Biomarkers, Pathways, and Therapeutic Targets study
 
